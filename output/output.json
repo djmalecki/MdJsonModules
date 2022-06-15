@@ -17,6 +17,7 @@
   "data": [
     {
       "id": "gitModule__1-setupGit",
+      "parentId": "",
       "contents": "<h1 id=\"setup\">Setup</h1>\n<h2 id=\"setup-git\">Setup Git</h2>\n<p><a href=\"https://github.com\">Link to the github repo</a></p>\n",
       "moduleId": "setupGit",
       "title": "Setup Git",
@@ -59,6 +60,7 @@
     },
     {
       "id": "gitModule__2-learningGit",
+      "parentId": "gitModule__1-setupGit",
       "contents": "<h1 id=\"git\">Git</h1>\n<h2 id=\"learning-git\">Learning Git</h2>\n<p><a href=\"https://github.com\">Link to the github repo</a></p>\n",
       "moduleId": "learningGit",
       "title": "Introduce Git",
